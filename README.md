@@ -1,5 +1,6 @@
-package com.price.processor;
 
+package com.price.processor;
+#PriceThrotteler
 /**
  * You have to write a PriceThrottler class which will implement the following requirements:
  * 1) Implement PriceProcessor interface
