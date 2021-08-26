@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BlockingQueue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PriceProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PriceProcessorCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PriceRatePair.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PriceThrottler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ProcessorRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ProducerConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Tests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/priceprocessorCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/FastPriceProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/FastPriceThrottler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/PriceThottlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/SlowPriceProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/SlowPriceThrottler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOClientWeb/src/main/java/com/earnix/eo/restapi/webui/pricingexecution/RulesResourceBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/main/java/com/earnix/eo/client/pricingexec/PricingExecutionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/main/java/com/earnix/eo/client/util/EOItems.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/main/java/com/earnix/eo/gui/pricing/execution/rule/PricingRuleWizardHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/main/java/com/earnix/eo/gui/wizard/EOWizard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/test/java/com/earnix/eo/client/util/EOItems2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOGUI/src/test/java/com/earnix/eo/delegates/UTestCycleDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOParent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOTest/fasttests/unittests/com/earnix/eo/estimator/ratingStructure/RatingStructureJpaUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EOUtils/src/main/java/com/earnix/utils/spring/EOApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixAttribute/src/main/java/com/earnix/eo/attributes/AbstractContextSensitiveAttribute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixClientServerInterface/EarnixDelegate/src/main/java/com/earnix/eo/delegates/ICycleDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixClientServerInterface/EarnixVO/src/main/java/com/earnix/eo/vo/estimator/ratingStructure/RatingTableCharacteristicsVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixDelegate/src/main/java/com/earnix/eo/delegates/ICycleDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixH2O/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixH2O/src/main/java/com/earnix/eo/h2o/BaseH2OAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixLibs/EOArtifacts/src/main/java/com/earnix/eo/entities/lib/artifacts/versions/LinkingVersionsContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixLibs/EOFormula/src/main/java/src/com/earnix/eo/formula/generated/GeneratedFormulaImplementation_30750342164AE3B819B884D4BF8581CF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/entities/estimator/RatingParameterEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/entities/pricingMix/PricingRulesEntityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/estimator/ratingStructure/RatingStructureEntityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/estimator/ratingStructure/ReferencedRatingTableEntityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/pricing/OptimizationVersionObligatoryAttributesUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/version/UpgradeEO24369.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixPersistence/EOEntitiesCommon/src/com/earnix/eo/vo/estimator/BaseParameterVOFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixServerApp/EOArtifactsBuilder/src/main/java/com/earnix/eo/entities/lib/artifacts/context/LoopsContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixSessions/src/main/java/com/earnix/eo/cycle/operations/ReleaseOptUsedEstimationVersionsOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixSessions/src/main/java/com/earnix/eo/delegates/BaseCycleDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixSessions/src/main/java/com/earnix/eo/optimizer/simulation/operations/GetSimulationProjectsOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixSessions/src/main/java/com/earnix/eo/ratingstructures/operations/FindRatingTablesByReleasedVersionOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/EarnixSessions/src/main/java/com/earnix/eo/ratingstructures/operations/FindRatingTablesPerRatingParameterOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/pipeline/eo-sonar-pipeline.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/pipeline/local_functions/vars/utilFunctions.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/pipeline/main-parallel-build">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EO/pipeline/mr-build">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/eointegrationtests2/eo_py_tests/tests/online_py/create_snapshot.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/eointegrationtests2/eotest/modeling/distributed_gam/createDGAMRegressionWithoutColumnCache.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
